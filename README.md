@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm María Fernanda Ríos</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Testing QA course (Codo a Codo 4.0)**
+- 🌱 I’m currently learning **Testing QA (Codo a Codo 4.0)**
 
 - 💬 Ask me about **JavaScript & MySQL**
 
